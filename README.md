@@ -32,10 +32,10 @@ You will also need:
 1.  **Clone the repository or download the files:**
     If this were a git repository:
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/XevilA/openmcx
     cd openmcx
     ```
-    Otherwise, ensure you have `openmcx_main.py`.
+    Otherwise, ensure you have `main.py`.
 
 2.  **Install dependencies:**
     ```bash
@@ -57,4 +57,4 @@ You will also need:
 Execute the main Python script:
 
 ```bash
-python openmcx_main.py
+python main.py
